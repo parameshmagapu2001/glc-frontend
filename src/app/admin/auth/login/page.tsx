@@ -58,7 +58,7 @@ export default function LoginPage() {
         </div>
 
         <Image
-          src="/images/login-illustration.png"
+          src="/admin/images/farmLandForm.png"
           alt="Illustration"
           width={400}
           height={400}
