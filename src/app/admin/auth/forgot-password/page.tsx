@@ -19,7 +19,6 @@ export default function ForgotPasswordPage() {
     setMessage("Password reset instructions have been sent to your email.");
     setEmail("");
   };
-
   return (
     <main className="min-h-screen flex flex-col md:flex-row bg-[#f9f9ff]">
       {/* Left Illustration Section */}
